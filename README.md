@@ -24,3 +24,6 @@ Contents of `Co739ProjectAsymptotics/Asymptotics.lean`:
       then $\frac{f(n)}{h(n)} \in \Theta(1)$.
     - $\min(f(n), g(n)) \in \Theta
        \left(\frac{f(n)g(n)}{f(n) + g(n)}\right)$.
+
+## Other Work
+My progress in Mathematics in Lean and class exercises are in the Other Work folder.
